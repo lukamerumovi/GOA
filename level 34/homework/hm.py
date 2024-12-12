@@ -29,3 +29,7 @@
 #         return n -1
 #     elif n > 13:
 #         return n -2
+
+
+# def past(h, m, s):
+#     return (h * 3600000) + (m * 60000) + (s * 1000)
