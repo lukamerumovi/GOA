@@ -1,0 +1,18 @@
+.button{
+    width: 25px;
+    height: 25px;
+    background-color: red;
+}
+
+.button:hover{
+    background-color: green;
+}
+
+
+input[type="text"]{
+    border-radius: 17px;
+}
+
+input[type="password"]{
+    border-radius: 17px;
+}
