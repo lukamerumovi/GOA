@@ -1,0 +1,58 @@
+/* header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: darkgray;
+    color:white;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 20px ;
+    font-size: 1,3rem;
+}
+
+
+
+.material-symbols-outlined{
+    font-size: 1,3rem;
+    cursor: pointer;
+    
+}
+
+.material-symbols-outlined:hover{
+    color: greenyellow;
+}
+
+.num{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    gap: 30%;
+}
+
+body{
+    background-color: white;
+}
+
+
+.goa{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 2.1rem;
+color:black;
+}
+
+
+li{
+    cursor: pointer;
+}
+
+li:hover{
+    color: darkred;
+}
+
+h1{
+    text-shadow: 10px 10px 5px;
+} */
