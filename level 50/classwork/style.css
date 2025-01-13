@@ -1,0 +1,21 @@
+/* body{
+    background-color: black;
+    color: white;
+}
+
+.picture{
+    position: relative;
+    bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: flex-end;
+}
+
+.niva{
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    top: 50px;
+    margin-top: 50px;
+} */
